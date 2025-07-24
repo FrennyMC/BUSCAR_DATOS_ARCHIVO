@@ -1,5 +1,3 @@
-# Nombre Estudiante
-# Carnet
 from tkinter import *
 from tkinter import messagebox
 from io import open
