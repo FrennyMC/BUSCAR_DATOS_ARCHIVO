@@ -59,6 +59,6 @@ Para que el programa funcione correctamente, todos estos archivos deben estar en
 
 |  Cédula            | Vacuna             | Prueba PCR           |
 |--------------------|--------------------|--------------------|
-| ![ID](img/cedula.gif) | ![Vacuna](img/vacunas.gif) | ![PCR](img/prueba_1.gif) |
+| ![ID](https://github.com/FrennyMC/BUSCAR_DATOS_ARCHIVO/blob/8906a509ee52b01f693229a57d956ceafbacdc40/img/img1.jpg) | ![Vacuna](https://github.com/FrennyMC/BUSCAR_DATOS_ARCHIVO/blob/8906a509ee52b01f693229a57d956ceafbacdc40/img/img2.jpg) | ![PCR](https://github.com/FrennyMC/BUSCAR_DATOS_ARCHIVO/blob/8906a509ee52b01f693229a57d956ceafbacdc40/img/img3.jpg) |
 
 
